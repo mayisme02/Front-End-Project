@@ -1,6 +1,6 @@
 # FrontEnd-Website-Project
-# MEZZDOUGH - Frontend Project
-![image website](images/screenshot.png)
+# MEZZDOUGH
+![image website](web-demo.png)
 
 ## Overview
 MEZZDOUGH เป็นโปรเจค Frontend สำหรับเว็บไซต์ร้านอาหาร โดยออกแบบ UI ให้มีความสวยงาม ทันสมัย และใช้งานง่าย มีโทนสีหลักเป็นสีดำและเหลืองเพื่อความโดดเด่น
